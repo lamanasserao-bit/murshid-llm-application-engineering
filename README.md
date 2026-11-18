@@ -1,4 +1,3 @@
-# murshid-llm-application-engineering
 # Murshid Mini — LLM Application Engineering
 
 ## 1. Project Overview
